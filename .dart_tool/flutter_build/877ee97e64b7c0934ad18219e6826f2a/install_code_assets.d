@@ -1,0 +1,1 @@
+ /Users/schweppe/Developer/Np\ App\ Design\ test/.dart_tool/flutter_build/877ee97e64b7c0934ad18219e6826f2a/native_assets.json: 
