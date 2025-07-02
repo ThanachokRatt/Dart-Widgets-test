@@ -232,8 +232,8 @@ class AddToCartSection extends StatelessWidget {
       decoration: BoxDecoration(
         color: Colors.grey.shade100.withAlpha(200),
         borderRadius: BorderRadius.only(
-          topLeft: Radius.circular(24), // มุมบนซ้าย
-          topRight: Radius.circular(24), // มุมบนขวา
+          topLeft: Radius.circular(24),
+          topRight: Radius.circular(24),
         ),
       ),
       child: Padding(
