@@ -177,7 +177,7 @@ class BottomSection extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 20),
       child: Text(
-        "The pasta in the picture USES alkaline noodles, which many people are not very familiar with. The sauce is also very popular with the local people.",
+        "The pasta in the picture USES alkaline noodles, which many people are not very familiar with. The sauce is also very popular with the local people. if",
         style: TextStyle(color: Colors.grey[700]),
       ),
     );
