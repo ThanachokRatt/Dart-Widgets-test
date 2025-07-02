@@ -112,9 +112,8 @@ class BottomSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Stack(
-      clipBehavior: Clip.none, // Prevent clipping of floating widget
+      clipBehavior: Clip.none,
       children: [
-        // Content box
         Container(
           decoration: BoxDecoration(
             color: Colors.grey[50],
